@@ -1,0 +1,1 @@
+enum TaskStatusEnum { active, completed }
